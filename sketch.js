@@ -44,7 +44,7 @@ function draw(){
 if (controleTela == "INICIO"){
   mostraAbertura();
 }
- if (controleTela == "FINAL"){
+ if (controleTela == "JOGO"){
   executarJogo();
 } 
 
