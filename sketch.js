@@ -10,7 +10,7 @@ var tentativas = 0;
 var imgAbertura;
 var controleTela = "INICIO";
 var imgGameover;
-var controleGameover = "FINAL";
+var controleGameover = "JOGO";
 var vidas = 3;
 
 //carregar as imagens e o audio
